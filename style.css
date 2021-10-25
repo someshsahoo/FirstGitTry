@@ -2,6 +2,14 @@
     box-sizing: border-box;
 }
 
+body{
+
+    margin: 0;
+    padding: 0;
+    font-family: system-ui,sans-serif;
+    font-size: 23px;
+}
+
 header{
     margin-top: 50px;
     margin-bottom: 50px;
@@ -10,7 +18,7 @@ header{
 }
 
 main{
-    margin-top: 50px;
+    margin-top: 100px;
     margin-bottom: 50px;
     margin-left: 50px;
     margin-right: 50px;
