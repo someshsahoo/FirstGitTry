@@ -4,10 +4,11 @@
 
 body{
 
-    margin: 0;
-    padding: 0;
+    margin: 30px;
+    padding: 10px;
     font-family: system-ui,sans-serif;
     font-size: 14px;
+    background-color: rgb(255, 255, 255);
 }
 
 header{
@@ -26,5 +27,10 @@ main{
 
 .size1{
 
-    font-size: 18px;
+    font-size: 16px;
+}
+
+.bgcol{
+
+    background-color: rgb(236, 250, 185);
 }
