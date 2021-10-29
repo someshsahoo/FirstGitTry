@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  margin: 20px auto;
+  max-width: 60ch;
+}
+
+header, main{
+  margin: 20px 5%;
+
+}
+
+.flex-container{
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.grid-container{
+
+  display: grid;
+  
+}
+
+nav{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+h1, h2{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+.card{
+
+  width: 200px;
+  height: 200px;
+  background-color: rosybrown;
+  border: 1px black solid;
+  margin: 6px;
+}
